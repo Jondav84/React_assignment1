@@ -1,0 +1,21 @@
+:root {
+    font-size: 10px;
+}
+
+body {
+    background-color: rgb(206, 227, 227);
+    width: 100%;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+#root {
+
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+}

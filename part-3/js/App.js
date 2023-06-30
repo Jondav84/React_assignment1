@@ -2,6 +2,11 @@
 const App = () => (
   <div>
     <Person
+      name="James T. Kirk"
+      age={36}
+      hobbies={["Exploring", "Negotiation", "Chess", "Romancing Aliens"]}
+    />
+    <Person
       name="Anakin Skywalker"
       age={9}
       hobbies={[
@@ -46,11 +51,6 @@ const App = () => (
         "Getting Shot(I do it alot)",
         "Wait what were we doing....",
       ]}
-    />
-    <Person
-      name="James T. Kirk"
-      age={36}
-      hobbies={["Exploring", "Negotiation", "Chess", "Romancing Aliens"]}
     />
   </div>
 );
