@@ -1,0 +1,19 @@
+{
+  "name": "assignment-1_part-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment",
+    "part",
+    "3"
+  ],
+  "author": "Jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
