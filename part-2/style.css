@@ -1,0 +1,20 @@
+.tweet {
+    border: 2.5px solid #1DA1F2;
+    border-radius: 5px;
+    margin: 20px 20%;
+    padding: 20px;
+}
+
+.name,
+.date {
+    color: #7d7c7c;
+    margin: 0 10px;
+}
+
+P {
+    font-size: 1.25rem;
+}
+
+:root {
+    font-size: 16px;
+}
